@@ -1,2 +1,3 @@
 /// <reference types="react-scripts" />
-type AnyValue = any;
+declare type AnyValue = any;
+declare module 'react-dom/client';
